@@ -1,7 +1,10 @@
 ## Segment vs. Document level Machine Translation 
 
-## Description
- This project aims to explore current limitations in machine translation models trained on sentence-level data. A [Marian MT](https://huggingface.co/docs/transformers/model_doc/marian) transformer was used to translate two texts of similar nature from English into Italian. Data was evaluated by leveraging [COMET-22](https://aclanthology.org/2022.wmt-1.52/) and [Unbabel Qi](https://qi.unbabel.com/).
+### Description
+This project aims to explore current limitations in machine translation models trained on sentence-level data. 
+A [Marian MT](https://huggingface.co/docs/transformers/model_doc/marian) transformer was used to translate two texts of similar nature from English into Italian. 
+Data was evaluated by leveraging [COMET](https://github.com/Unbabel/COMET) default model "Unbabel/wmt22-comet-da" and [Unbabel Qi](https://qi.unbabel.com/).
+
 
 ### Dependencies
 In order to run the scripts, the following should be installed:
@@ -11,5 +14,5 @@ In order to run the scripts, the following should be installed:
 - transformers
 - unbabel-comet
 
-## Author
+### Author
 Sara Di Donna
