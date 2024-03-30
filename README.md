@@ -1,4 +1,4 @@
-## Segment vs Document-level Machine Translation - Traditional models limitations
+## Segment vs Document-level Machine Translation - current limitations
 
 ### Description
 This project aims to explore current limitations in machine translation models trained on sentence-level data. 
