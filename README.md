@@ -7,7 +7,7 @@ Data was evaluated by leveraging [COMET](https://github.com/Unbabel/COMET) defau
 
 
 ### Dependencies
-In order to run the scripts, the following should be installed:
+In order to run the scripts, the following items should be installed:
 - Python 3.10.12 or higher 
 - pytorch
 - sacremoses
