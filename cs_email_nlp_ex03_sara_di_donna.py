@@ -16,7 +16,7 @@ import sacremoses
 import re
 from comet import download_model, load_from_checkpoint
 
-os.environ['HF_TOKEN'] = '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' # token needed to access transformer model from Hugging Face
+os.environ['HF_TOKEN'] = '' # token needed to access transformer model from Hugging Face
 
 # Load the MarianMT model and tokenizer for translation between English and Italian
 model_name = 'Helsinki-NLP/opus-mt-en-it'  # English to Italian translation model
